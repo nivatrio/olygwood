@@ -1,0 +1,95 @@
+{
+  "inverters": [
+    {
+      "name": "oly_goodwood_15KW_1",
+      "slaveId": 1,
+      "slaveType":"RTU",
+      "functionCode": 4,
+      "slaveIp" : "192.168.1.138",
+      "baudRate": 9600,
+      "dataBits": 8,
+      "stopBits": 1,
+      "parity": "none",
+   "registers": [
+          {
+            "start": 1032,
+            "count": 7
+          },
+          {
+            "start": 40962,
+            "count": 1
+          },
+          {
+            "start": 40995,
+            "count": 1
+          },
+          {
+            "start": 45056,
+            "count": 19
+          },
+          {
+            "start": 49152,
+            "count": 13
+          },
+          {
+            "start": 49179,
+            "count": 3
+          },
+          {
+            "start": 49248,
+            "count": 3
+          },
+          {
+            "start": 53248,
+            "count": 10
+          }
+      ]
+},
+    {
+      "name": "oly_goodwood_15KW_1",
+      "slaveId": 2,
+      "slaveType":"RTU",
+      "functionCode": 4,
+      "slaveIp" : "192.168.1.138",
+      "baudRate": 9600,
+      "dataBits": 8,
+      "stopBits": 1,
+      "parity": "none",
+   "registers": [
+          {
+            "start": 1032,
+            "count": 7
+          },
+          {
+            "start": 40962,
+            "count": 1
+          },
+          {
+            "start": 40995,
+            "count": 1
+          },
+          {
+            "start": 45056,
+            "count": 19
+          },
+          {
+            "start": 49152,
+            "count": 13
+          },
+          {
+            "start": 49179,
+            "count": 3
+          },
+          {
+            "start": 49248,
+            "count": 3
+          },
+          {
+            "start": 53248,
+            "count": 10
+          }
+      ]
+}
+]
+}
+
