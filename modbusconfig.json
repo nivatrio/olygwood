@@ -12,11 +12,11 @@
       "parity": "none",
    "registers": [
           {
-            "start": 1032,
+            "start": 1031,
             "count": 7
           },
           {
-            "start": 40962,
+            "start": 40961,
             "count": 1
           },
           {
