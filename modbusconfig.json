@@ -46,7 +46,7 @@
       ]
 },
     {
-      "name": "oly_goodwood_15KW_1",
+      "name": "oly_goodwood_15KW_2",
       "slaveId": 2,
       "slaveType":"RTU",
       "functionCode": 4,
